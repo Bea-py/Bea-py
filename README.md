@@ -1,7 +1,7 @@
-### Olá ! Eu sou a Beatriz !
-### はじめまして皆さん ベアトリスで よろしくお願いいたします。
-### Hello ! I am Beatriz
-### Hola ! Yo soy Beatriz
+# Olá ! Eu sou a Beatriz !
+はじめまして皆さん ベアトリスで よろしくお願いいたします。/
+Hello ! I am Beatriz /
+Hola ! Yo soy Beatriz
 
 - 🔭 Hoje trabalho como QA (Analista de Qualidade) - Futuramente : Engenheira de Qualidade de Software
 - 🌱 Estudando Cypress.
@@ -23,7 +23,8 @@
   <img align="center" alt="Bea-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Bea-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bea-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/79253020/173698184-f6f8bbbe-4266-4441-a87c-d0d7f82f8264.png"> 
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic92/08f3b34891ff14033244174f8e15bed4.gif"> 
+  <a href="https://picasion.com/"><img align="right" src="https://i.picasion.com/pic92/08f3b34891ff14033244174f8e15bed4.gif" width="150" height="150" border="50px" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
  
   ##
 
