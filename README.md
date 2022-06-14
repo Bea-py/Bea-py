@@ -23,12 +23,13 @@
   <img align="center" alt="Bea-Mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Bea-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Bea-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://user-images.githubusercontent.com/79253020/173698184-f6f8bbbe-4266-4441-a87c-d0d7f82f8264.png"> 
  
   ##
+
   
  <div>
-    <a href="[https://www.linkedin.com/in/beatriz-sakaguchi-toledo-70a21b106]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-          badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href="[https://www.linkedin.com/in/beatriz-sakaguchi-toledo-70a21b106]" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
    
    
