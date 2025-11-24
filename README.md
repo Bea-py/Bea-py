@@ -3,7 +3,7 @@
 Hello ! I am Beatriz /
 Hola ! Yo soy Beatriz
 
-- 🔭 Hoje trabalho como QA (Analista de Qualidade) - Futuramente : Engenheira de Qualidade de Software
+- 🔭 Hoje trabalho como  Engenheira de Qualidade de Software Sênior
 - 🌱 Estudando Cypress.
 - 😄 Pronouns: ela/dela
 
